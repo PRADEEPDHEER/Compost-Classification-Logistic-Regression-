@@ -1,0 +1,11 @@
+temperature,moisture,pH,organic_waste,compost_type
+55,40,6.5,300,Type A
+60,50,6.7,400,Type A
+65,45,6.8,350,Type B
+70,55,7.0,450,Type B
+58,30,6.3,300,Type A
+62,65,6.6,500,Type B
+75,60,6.9,600,Type A
+80,70,7.1,550,Type A
+90,75,6.4,700,Type B
+85,80,6.2,650,Type B
